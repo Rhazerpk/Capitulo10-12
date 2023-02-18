@@ -1,0 +1,16 @@
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo10&12\Capitulo10-12\Capitulo10-12\bin\Debug\net5.0\Capitulo10-12.exe
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo10&12\Capitulo10-12\Capitulo10-12\bin\Debug\net5.0\Capitulo10-12.deps.json
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo10&12\Capitulo10-12\Capitulo10-12\bin\Debug\net5.0\Capitulo10-12.runtimeconfig.json
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo10&12\Capitulo10-12\Capitulo10-12\bin\Debug\net5.0\Capitulo10-12.runtimeconfig.dev.json
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo10&12\Capitulo10-12\Capitulo10-12\bin\Debug\net5.0\Capitulo10-12.dll
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo10&12\Capitulo10-12\Capitulo10-12\bin\Debug\net5.0\ref\Capitulo10-12.dll
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo10&12\Capitulo10-12\Capitulo10-12\bin\Debug\net5.0\Capitulo10-12.pdb
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo10&12\Capitulo10-12\Capitulo10-12\obj\Debug\net5.0\Capitulo10-12.csproj.AssemblyReference.cache
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo10&12\Capitulo10-12\Capitulo10-12\obj\Debug\net5.0\Capitulo10-12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo10&12\Capitulo10-12\Capitulo10-12\obj\Debug\net5.0\Capitulo10-12.AssemblyInfoInputs.cache
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo10&12\Capitulo10-12\Capitulo10-12\obj\Debug\net5.0\Capitulo10-12.AssemblyInfo.cs
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo10&12\Capitulo10-12\Capitulo10-12\obj\Debug\net5.0\Capitulo10-12.csproj.CoreCompileInputs.cache
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo10&12\Capitulo10-12\Capitulo10-12\obj\Debug\net5.0\Capitulo10-12.dll
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo10&12\Capitulo10-12\Capitulo10-12\obj\Debug\net5.0\ref\Capitulo10-12.dll
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo10&12\Capitulo10-12\Capitulo10-12\obj\Debug\net5.0\Capitulo10-12.pdb
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo10&12\Capitulo10-12\Capitulo10-12\obj\Debug\net5.0\Capitulo10-12.genruntimeconfig.cache
